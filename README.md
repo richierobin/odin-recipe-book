@@ -1,0 +1,1 @@
+Another attempt at getting GitHub to open the project HTML as a web page
